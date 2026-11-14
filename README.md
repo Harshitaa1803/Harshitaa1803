@@ -32,5 +32,9 @@ Interested in FPGA design, embedded systems, digital hardware and hardware accel
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
+## GitHub Statistics
 
+![GitHub Stats](./stats.svg)
+
+---
 [LinkedIn](https://www.linkedin.com/in/harshita-umashankar-7b6744311) · [GitHub](https://github.com/Harshitaa1803)
