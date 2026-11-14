@@ -19,7 +19,7 @@ Interested in FPGA design, embedded systems, digital hardware and hardware accel
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tools:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-FB6A00?style=for-the-badge)
