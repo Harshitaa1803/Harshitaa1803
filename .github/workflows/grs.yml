@@ -22,7 +22,7 @@ jobs:
           card: stats
           options: username=Harshitaa1803&show_icons=true&theme=dark&hide_border=true&include_all_commits=true
           path: stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Commit stats card
         run: |
